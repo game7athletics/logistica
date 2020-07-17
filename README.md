@@ -36,7 +36,7 @@ Sfruttare firebase per il database e provare a fare un porting per github pages
 
 - [Database on a personal github page](
 https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
-- []()
+- [abstracting backend tasks with frontend code](http://nobackend.org/)
 
 
 ## Welcome to GitHub Pages
