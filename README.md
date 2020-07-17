@@ -1,3 +1,7 @@
+## Emojii
+
+https://getemoji.com/
+
 ## Link utili redmine
 
 - [Backup redmine guida](https://www.redmine.org/projects/redmine/wiki/RedmineBackupRestore)
