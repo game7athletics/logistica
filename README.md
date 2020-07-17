@@ -5,8 +5,8 @@
 - [Ability to define default columns to display based on project](https://www.redmine.org/issues/3967)
 - [Default private status for project creation](https://www.redmine.org/projects/redmine/repository/revisions/1235)
 - [Setting for whether new projects are public by default](https://www.redmine.org/issues/2066)
-- []()
-- []()
+- [Ricerca google: redmine projects ereditate members by default](https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk01zb_sakgwLsSwnMh_unbW9ex9UaA%3A1595015915012&ei=6wISX_wowrnpBJGyp-gD&q=redmine+projects+ereditate+members+by+default&oq=redmine+projects+ereditate+members+by+default&gs_lcp=CgZwc3ktYWIQAzoECAAQR1D45QFY_u8BYPfwAWgAcAF4AIABbIgB9gWSAQM2LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi8ypmoidXqAhXCXJoKHRHZCT0Q4dUDCAs&uact=5)
+- [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
 - []()
 - []()
 - []()
@@ -14,11 +14,11 @@
 ## Plugins
 
 - [Default queries per project](https://www.redmine.org/plugins/redmine_default_columns)
+- [Issue Templates](https://www.redmine.org/plugins/redmine_issue_templates)
+- [View Customize](https://www.redmine.org/plugins/redmine_view_customize)
 - []()
 - []()
-- []()
-- []()
-- []()
+- [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
 
 
 ## Welcome to GitHub Pages
