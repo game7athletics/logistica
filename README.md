@@ -20,12 +20,19 @@
 - []()
 - [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
 
-##Temi
+## Temi
 
 - [popular Redmine themes](https://www.redmineup.com/pages/blog/most-popular-best-redmine-themes)
 - []()
 - []()
 
+## Redmine su github pages
+
+Sfruttare firebase per il database e provare a fare un porting per github pages
+
+- [Database on a personal github page](
+https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
+- []()
 
 
 ## Welcome to GitHub Pages
