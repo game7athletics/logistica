@@ -17,7 +17,7 @@
 - [Issue Templates](https://www.redmine.org/plugins/redmine_issue_templates)
 - [View Customize](https://www.redmine.org/plugins/redmine_view_customize)
 - []()
-- []()
+- [HowTo configure Redmine for advanced git integration](https://www.redmine.org/projects/redmine/wiki/HowTo_configure_Redmine_for_advanced_git_integration)
 - [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
 
 ## Temi
