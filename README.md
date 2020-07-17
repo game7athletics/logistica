@@ -11,9 +11,9 @@ https://getemoji.com/
 - [Setting for whether new projects are public by default](https://www.redmine.org/issues/2066)
 - [Ricerca google: redmine projects ereditate members by default](https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk01zb_sakgwLsSwnMh_unbW9ex9UaA%3A1595015915012&ei=6wISX_wowrnpBJGyp-gD&q=redmine+projects+ereditate+members+by+default&oq=redmine+projects+ereditate+members+by+default&gs_lcp=CgZwc3ktYWIQAzoECAAQR1D45QFY_u8BYPfwAWgAcAF4AIABbIgB9gWSAQM2LjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwi8ypmoidXqAhXCXJoKHRHZCT0Q4dUDCAs&uact=5)
 - [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
-- []()
-- []()
-- []()
+- [Installing on Redmine Bitnami stack](https://www.redmineup.com/pages/help/agile/installing-redmine-redmine-agile-plugin-on-bitnami-stack?utm_source=Main&utm_medium=email&utm_campaign=Download_plugin_email&utm_term=download_plugin_email&utm_content=installation_guide)
+- [Redmine iPhone app](https://www.redmine.org/boards/1/topics/8145)
+- [Redmine API](https://www.redmine.org/projects/redmine/wiki/Rest_api)
 
 ## Plugins
 
