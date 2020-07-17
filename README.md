@@ -1,3 +1,26 @@
+## Link utili redmine
+
+- [Backup redmine guida](https://www.redmine.org/projects/redmine/wiki/RedmineBackupRestore)
+- [Ricerca google: redmine project list in table by default](https://www.google.com/search?client=firefox-b-d&q=redmine+project+list+in+table+by+default)
+- [Ability to define default columns to display based on project](https://www.redmine.org/issues/3967)
+- [Default private status for project creation](https://www.redmine.org/projects/redmine/repository/revisions/1235)
+- [Setting for whether new projects are public by default](https://www.redmine.org/issues/2066)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+## Plugins
+
+- [Default queries per project](https://www.redmine.org/plugins/redmine_default_columns)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/game7athletics/logistica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
