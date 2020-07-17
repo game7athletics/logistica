@@ -22,7 +22,7 @@
 
 ##Temi
 
-- [](https://www.redmineup.com/pages/blog/most-popular-best-redmine-themes)
+- [popular Redmine themes](https://www.redmineup.com/pages/blog/most-popular-best-redmine-themes)
 - []()
 - []()
 
