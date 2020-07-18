@@ -42,6 +42,7 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 
 - https://docs.bitnami.com/virtual-machine/faq/configuration/configure-static-address/
 - https://docs.bitnami.com/oci/apps/wordpress/administration/increase-upload-limit-php/
+- https://support.undsgn.com/hc/en-us/articles/213453949-Server-Requirements
 
 ## Welcome to GitHub Pages
 
