@@ -38,6 +38,10 @@ Sfruttare firebase per il database e provare a fare un porting per github pages
 https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - [abstracting backend tasks with frontend code](http://nobackend.org/)
 
+## Bitnami
+
+- https://docs.bitnami.com/virtual-machine/faq/configuration/configure-static-address/
+- https://docs.bitnami.com/oci/apps/wordpress/administration/increase-upload-limit-php/
 
 ## Welcome to GitHub Pages
 
