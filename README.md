@@ -48,6 +48,8 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - https://docs.bitnami.com/installer/apps/#how-to-reset-the-mysql-root-password
 - https://docs.bitnami.com/oci/apps/redmine/get-started/find-credentials-link-mysql/
 - https://docs.bitnami.com/search/?in=installer&a=redmine&q=redmine%20database%20password
+- https://www.a2hosting.com/kb/developer-corner/mysql/connect-to-mysql-from-the-command-line
+- https://alvinalexander.com/blog/post/mysql/show-users-i-ve-created-in-mysql-database/#:~:text=To%20show%2Flist%20the%20users%20in%20a%20MySQL%20database%2C%20first,the%20columns%20from%20the%20mysql.
 
 ## Welcome to GitHub Pages
 
