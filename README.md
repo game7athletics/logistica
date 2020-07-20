@@ -52,6 +52,22 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - https://alvinalexander.com/blog/post/mysql/show-users-i-ve-created-in-mysql-database/#:~:text=To%20show%2Flist%20the%20users%20in%20a%20MySQL%20database%2C%20first,the%20columns%20from%20the%20mysql.
 - https://www.mysqltutorial.org/mysql-show-databases/
 
+## Scripting utile
+
+bitnami
+toto121283
+p3Kqv01pLZal
+
+mysql
+bitnami
+918df45129
+
+mysqldump -u bitnami -p bitnami_redmine > /home/backup/bitnami_redmine.sql
+
+
+rsync -a /path/to/redmine/files /path/to/backup/files
+/opt/bitnami/apps/redmine/htdocs/files
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/game7athletics/logistica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
