@@ -77,8 +77,14 @@ rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 - https://askubuntu.com/questions/83423/how-to-activate-this-crontab
 - https://www.123-reg.co.uk/support/servers/how-can-i-enable-cronjobs-on-my-dedicated-server/
 
-crontab -e
+`crontab -e`
 
+```
+30 8 1 * * /bin/bash -c "/backups/backup.sh"
+```
+#### Contenuto file /backups/backup.sh
+
+```
 #!/usr/bin/env bash
 
 var=$(date +"%FORMAT_STRING")
@@ -87,6 +93,7 @@ today=$(date +"%Y-%m-%d")
 mysqldump --add-drop-table -u bitnami -p 918df45129 bitnami_redmine > /user/backup/bitnami_redmine.sql
 tar -czvf /home/backup/db/${today}-bitnami_redmine.tar.gz /home/backup/bitnami_redmine.sql
 python /backups/send.py
+```
 
 #### File python 
 
