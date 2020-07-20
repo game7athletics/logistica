@@ -54,6 +54,8 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 
 ## Scripting utile
 
+- restore/backup redmine: https://www.redmine.org/projects/redmine/wiki/RedmineBackupRestore
+
 ### Accesso virtuabox bitnami
 bitnami
 toto121283
