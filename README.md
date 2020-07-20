@@ -54,19 +54,26 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 
 ## Scripting utile
 
+### Accesso virtuabox bitnami
 bitnami
 toto121283
 p3Kqv01pLZal
 
-mysql
-bitnami
-918df45129
+### mysql backup
 
+mysql_user:bitnami
+mysql_passwd:918df45129
+
+```
 mysqldump -u bitnami -p bitnami_redmine > /home/backup/bitnami_redmine.sql
 
-
-rsync -a /path/to/redmine/files /path/to/backup/files
+rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 /opt/bitnami/apps/redmine/htdocs/files
+```
+
+#### mysql backup cronjob
+
+
 
 ## Welcome to GitHub Pages
 
