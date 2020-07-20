@@ -95,6 +95,7 @@ rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 - https://askubuntu.com/questions/83423/how-to-activate-this-crontab
 - https://www.123-reg.co.uk/support/servers/how-can-i-enable-cronjobs-on-my-dedicated-server/
 - http://www.techiecorner.com/1619/how-to-setup-mysqldump-without-password-in-cronjob/
+- https://stackoverflow.com/questions/9293042/how-to-perform-a-mysqldump-without-a-password-prompt
 
 #### Cron Syntax
 
