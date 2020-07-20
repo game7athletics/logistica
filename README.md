@@ -5,7 +5,7 @@ https://getemoji.com/
 ## To do
 
 - [ ] [Ordinare in ordine dal più recentemente creato, da vista project generale sottoprogetti store/GdiN/Piano-consegne-settimanale/week-NWEEK](https://www.redmine.org/issues/3722)
-- [ ]
+- [ ] [Rimuovere logo bitnami in basso](https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/)
 - [ ]
 - [ ]
 - [ ]
@@ -131,7 +131,26 @@ python /backups/send.py
 
 #### File python 
 
+Using https://pyagmail.netlify.app/ to send refer to pyagmail for installing dependencies
 
+send.py
+```python
+yagmail.register('contatti.trendcolor@gmail.com', password=sender_password)
+contents = [
+  "In allegato a questa mail troverai il backup.",
+  "È il backup mensile del Database di fatture.trendcolor.net,",
+  "Così, in casi estremi, non perderai l'archivio delle tue fatture",
+  "Messaggio automatico generato da Trendcolor bot"
+]
+yag = yagmail.SMTP('contatti.trendcolor@gmail.com', password=sender_password)
+
+yag.send(
+        to="trendcolorsagl@gmail.com",
+        subject="Il tuo backup DB mensile di fatture-trendcolor-net",
+        contents=contents,
+        attachments=filename_path,
+)
+```
 
 ## Welcome to GitHub Pages
 
