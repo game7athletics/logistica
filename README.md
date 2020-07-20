@@ -115,7 +115,7 @@ A crontab file has five fields for specifying day date and time, followed by the
 `crontab -e`
 
 ```
-30 8 1 * * /bin/bash -c "/backups/backup.sh"
+30 8 1 * * /bin/bash -c "/user/backup/backup.sh"
 ```
 
 #### Contenuto file /backups/backup.sh
