@@ -72,10 +72,22 @@ mysqldump -u bitnami -p bitnami_redmine > /home/backup/bitnami_redmine.sql
 rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 /opt/bitnami/apps/redmine/htdocs/files
 ```
+### Backup con Cronjobs
 
-#### mysql backup cronjob
+- https://askubuntu.com/questions/83423/how-to-activate-this-crontab
 
+crontab -e
 
+#!/usr/bin/env bash
+
+var=$(date +"%FORMAT_STRING")
+now=$(date +"%m_%d_%Y")
+today=$(date +"%Y-%m-%d")
+mysqldump --add-drop-table -u bitnami -p 918df45129 bitnami_redmine > /user/backup/bitnami_redmine.sql
+tar -czvf /home/backup/db/${today}-bitnami_redmine.tar.gz /home/backup/bitnami_redmine.sql
+python /backups/send.py
+
+#### File python 
 
 ## Welcome to GitHub Pages
 
