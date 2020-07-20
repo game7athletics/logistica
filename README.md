@@ -113,7 +113,7 @@ A crontab file has five fields for specifying day date and time, followed by the
 `crontab -e`
 
 ```
-30 8 * * * /bin/bash -c "/backups/backup.sh"
+30 8 1 * * /bin/bash -c "/backups/backup.sh"
 ```
 
 #### Contenuto file /backups/backup.sh
@@ -125,6 +125,8 @@ var=$(date +"%FORMAT_STRING")
 now=$(date +"%m_%d_%Y")
 today=$(date +"%Y-%m-%d")
 mysqldump --add-drop-table -u bitnami -p 918df45129 bitnami_redmine > /user/backup/bitnami_redmine.sql
+rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
+/opt/bitnami/apps/redmine/htdocs/files
 tar -czvf /home/backup/db/${today}-bitnami_redmine.tar.gz /home/backup/bitnami_redmine.sql
 python /backups/send.py
 ```
