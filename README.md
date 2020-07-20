@@ -4,7 +4,7 @@ https://getemoji.com/
 
 ## To do
 
-- [ ] [Ordinare sottoprogetti store/G*provincia*/Piano\consegne\settimanale/week-*numeroweek*](https://www.redmine.org/issues/3722)
+- [ ] [Ordinare in ordine dal più recentemente creato, da vista project generale sottoprogetti store/GdiN/Piano-consegne-settimanale/week-NWEEK](https://www.redmine.org/issues/3722)
 - [ ]
 - [ ]
 - [ ]
