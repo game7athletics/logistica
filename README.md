@@ -41,7 +41,7 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - [abstracting backend tasks with frontend code](http://nobackend.org/)
 
 ## Bitnami
-
+- https://docs.bitnami.com/general/apps/redmine/#upgrade-redmine-and-all-stack-components-recommended
 - https://docs.bitnami.com/virtual-machine/faq/configuration/configure-static-address/
 - https://docs.bitnami.com/oci/apps/wordpress/administration/increase-upload-limit-php/
 - https://support.undsgn.com/hc/en-us/articles/213453949-Server-Requirements
