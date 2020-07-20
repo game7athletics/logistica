@@ -2,6 +2,20 @@
 
 https://getemoji.com/
 
+## To do
+
+- [ ] (Ordinare sottoprogetti store/G*provincia*/Piano\consegne\settimanale/week-*numeroweek*)[https://www.redmine.org/issues/3722]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+
+
 ## Link utili redmine
 
 - [Backup redmine guida](https://www.redmine.org/projects/redmine/wiki/RedmineBackupRestore)
@@ -25,6 +39,7 @@ https://getemoji.com/
 - [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
 - [](https://www.redmine.org/plugins/redmine_custom_css)
 - [Ordinamento sottoprogetti](https://www.redmine.org/issues/3722) [post padre](https://www.redmine.org/boards/2/topics/10725)
+- ()[https://github.com/martin-denizet/redmine_custom_css] leggi il readme e inserisci, per rimuovere descrizioni in pagina prjects/all: div#projects-index div.wiki.description{ display:none; }
 
 ## Temi
 
@@ -61,7 +76,7 @@ bitnami
 toto121283
 p3Kqv01pLZal
 
-### mysql backup
+### general mysql backup
 
 mysql_user:bitnami
 mysql_passwd:918df45129
@@ -72,6 +87,7 @@ mysqldump -u bitnami -p bitnami_redmine > /home/backup/bitnami_redmine.sql
 rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 /opt/bitnami/apps/redmine/htdocs/files
 ```
+
 ### Backup con Cronjobs
 
 - https://askubuntu.com/questions/83423/how-to-activate-this-crontab
@@ -80,8 +96,9 @@ rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 `crontab -e`
 
 ```
-30 8 1 * * /bin/bash -c "/backups/backup.sh"
+30 8 * * * /bin/bash -c "/backups/backup.sh"
 ```
+
 #### Contenuto file /backups/backup.sh
 
 ```
