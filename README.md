@@ -47,6 +47,7 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - https://support.undsgn.com/hc/en-us/articles/213453949-Server-Requirements
 - https://docs.bitnami.com/installer/apps/#how-to-reset-the-mysql-root-password
 - https://docs.bitnami.com/oci/apps/redmine/get-started/find-credentials-link-mysql/
+- https://docs.bitnami.com/search/?in=installer&a=redmine&q=redmine%20database%20password
 
 ## Welcome to GitHub Pages
 
