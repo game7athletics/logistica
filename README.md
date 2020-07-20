@@ -95,6 +95,21 @@ rsync -a /opt/bitnami/apps/redmine/htdocs/files /home/backup
 - https://askubuntu.com/questions/83423/how-to-activate-this-crontab
 - https://www.123-reg.co.uk/support/servers/how-can-i-enable-cronjobs-on-my-dedicated-server/
 
+#### Cron Syntax
+
+A crontab file has five fields for specifying day date and time, followed by the command to be run at that interval as demonstrated below.
+
+* * * * * command to be executed
+– – – – –
+| | | | |
+| | | | +—– day of week (0 – 6) (Sunday=0)
+| | | +——- month (1 – 12)
+| | +——— day of month (1 – 31)
+| +———– hour (0 – 23)
++————- min (0 – 59)
+
+### Commands
+
 `crontab -e`
 
 ```
