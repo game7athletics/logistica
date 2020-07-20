@@ -4,6 +4,7 @@ https://getemoji.com/
 
 ## To do
 
+- [ ] Creare il primo backup del lavoro svolto sia sul software che sul database
 - [ ] [Ordinare in ordine dal più recentemente creato, da vista project generale sottoprogetti store/GdiN/Piano-consegne-settimanale/week-NWEEK](https://www.redmine.org/issues/3722)
 - [ ] [Rimuovere logo bitnami in basso](https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/)
 - [ ]
