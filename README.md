@@ -4,7 +4,7 @@ https://getemoji.com/
 
 ## To do
 
-- [ ] Creare il primo backup del lavoro svolto sia sul software che sul database
+- [X] Creare il primo backup del lavoro svolto sia sul software che sul database
 - [ ] installare il plugin screemshotpaste
 - [ ] [Ordinare in ordine dal più recentemente creato, da vista project generale sottoprogetti store/GdiN/Piano-consegne-settimanale/week-NWEEK](https://www.redmine.org/issues/3722)
 - [ ] [Rimuovere logo bitnami in basso](https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/)
@@ -38,6 +38,7 @@ https://getemoji.com/
 - [View Customize](https://www.redmine.org/plugins/redmine_view_customize)
 - [Screenshotpaste plugin](https://www.redmine.org/projects/redmine/wiki/PluginScreenshotPaste)
 - [Custom CSS](https://github.com/martin-denizet/redmine_custom_css) leggi il readme e inserisci, per rimuovere descrizioni in pagina prjects/all: div#projects-index div.wiki.description{ display:none; }
+- [JStoolbar](https://www.redmine.org/plugins/redmine_jstoolbar_ext_buttons)
 
 - [HowTo configure Redmine for advanced git integration](https://www.redmine.org/projects/redmine/wiki/HowTo_configure_Redmine_for_advanced_git_integration)
 - [Installing a plugin](https://www.redmine.org/projects/redmine/wiki/plugins)
