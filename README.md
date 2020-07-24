@@ -17,36 +17,6 @@ https://getemoji.com/
 - [ ]
 - [ ]
 
-## Landing Page di presentazione proposta di progetto
-
-### Vantaggi dell'utilizzo della piattaforma
-
-1. Miglioramento del flusso di email in arrivo a tutti gli store
-  - Confusionario
-  - Facile perdere informazioni
-  - Troppe email in entrata ogni giorno
-  
-2. Miglioramento archiviazione dati e documenti di spedizione
-  - Facile trovare documenti inerenti alle spedizioni
-  - Archiviazione DDT ricevuti in modo digitale e non con stampa e raccoglitori
-  - Archiviazione completa online ed ordinata per progetto, issue di tracking e data
-  
-3. Velocizzazione flusso di lavoro
-
-4. Miglior gestione e tracciamento delle problematiche di spedizione
-
-5. Miglior gestione e visualizzazione delle scadenze
-
-6. Miglior controllo e supervisione dei dipendenti
-  - Ad ogni segnalazione viene assegnato un buyer specifico che deve risolvere il problema
-
-7. Migliore comunicazione e formazione per chi effettua le spedizioni
-  - Usando la wiki si può spiegare una volta sola le procedure di spedizione o altre guide e tutorial
-  
-### Idee di copy persuasivo da utilizzare nella pagina di presentazione
-
-
-
 ## Link utili redmine
 
 - [Backup redmine guida](https://www.redmine.org/projects/redmine/wiki/RedmineBackupRestore)
@@ -198,6 +168,52 @@ yag.send(
         attachments=filename_path,
 )
 ```
+# Sito web presentazione
+
+## Strumenti utili
+
+### Sviluppo in locale
+
+- https://developer.wordpress.org/themes/getting-started/setting-up-a-development-environment/
+- https://github.com/Varying-Vagrant-Vagrants/VVV
+- http://wptest.io/
+- https://lobby.vip.wordpress.com/wordpress-com-documentation/development-environment/
+- https://docs.chassis.io/en/latest/
+- https://www.smashingmagazine.com/2018/04/wordpress-local-development-beginners-setup-deployment/
+- https://localwp.com/
+
+## Comunicaziorne e roadmap Landing Page di presentazione proposta di progetto
+
+### Vantaggi dell'utilizzo della piattaforma
+
+1. Miglioramento del flusso di email in arrivo a tutti gli store
+  - Confusionario
+  - Facile perdere informazioni
+  - Troppe email in entrata ogni giorno
+  
+2. Miglioramento archiviazione dati e documenti di spedizione
+  - Facile trovare documenti inerenti alle spedizioni
+  - Archiviazione DDT ricevuti in modo digitale e non con stampa e raccoglitori
+  - Archiviazione completa online ed ordinata per progetto, issue di tracking e data
+  
+3. Velocizzazione flusso di lavoro
+
+4. Miglior gestione e tracciamento delle problematiche di spedizione
+
+5. Miglior gestione e visualizzazione delle scadenze
+
+6. Miglior controllo e supervisione dei dipendenti
+  - Ad ogni segnalazione viene assegnato un buyer specifico che deve risolvere il problema
+
+7. Migliore comunicazione e formazione per chi effettua le spedizioni
+  - Usando la wiki si può spiegare una volta sola le procedure di spedizione o altre guide e tutorial
+  
+### Idee di copy persuasivo da utilizzare nella pagina di presentazione
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
