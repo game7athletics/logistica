@@ -174,13 +174,19 @@ yag.send(
 
 ### Sviluppo in locale
 
+#### Cosa utilizzo
+
+- https://localwp.com/
+  - https://localwp.com/community/t/wp-cli-question/97/9
+  
+### Altri servizi di sviluppo in locale
+
 - https://developer.wordpress.org/themes/getting-started/setting-up-a-development-environment/
 - https://github.com/Varying-Vagrant-Vagrants/VVV
 - http://wptest.io/
 - https://lobby.vip.wordpress.com/wordpress-com-documentation/development-environment/
 - https://docs.chassis.io/en/latest/
 - https://www.smashingmagazine.com/2018/04/wordpress-local-development-beginners-setup-deployment/
-- https://localwp.com/
 
 ## Comunicaziorne e roadmap Landing Page di presentazione proposta di progetto
 
