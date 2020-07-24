@@ -178,6 +178,7 @@ yag.send(
 
 - https://localwp.com/
   - https://localwp.com/community/t/wp-cli-question/97/9
+  - PER ttps://github.com/WP2Static/static-html-output-plugin -- https://github.com/WP2Static/simplerstatic -- https://github.com/WP2Static/wp2static ISSUE: https://github.com/astorm/wp-static-html-output-plugin/issues/2
   
 ### Altri servizi di sviluppo in locale
 
