@@ -178,7 +178,8 @@ yag.send(
 
 - https://localwp.com/
   - https://localwp.com/community/t/wp-cli-question/97/9
-- https://wp2static.com/
+- https://wp2static.com/ (versione beta)
+  - https://github.com/WP2Static/static-html-output-plugin/releases/tag/6.6.21 (versione stabile precedente che supporta direttamente githubpages con la key)
   - https://wp2static.com/docs/deploying/
   - https://www.elegantthemes.com/blog/tips-tricks/how-to-generate-a-static-html-copy-of-your-wordpress-website
 - https://hostadvice.com/how-to/how-to-convert-a-wordpress-site-to-a-static-html-website/
