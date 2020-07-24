@@ -180,6 +180,11 @@ yag.send(
 
 - https://localwp.com/
   - https://localwp.com/community/t/wp-cli-question/97/9
+  
+##### Integrazione static con Formspree
+
+- https://formspree.io/
+- https://wordpress.org/plugins/wp-serverless-forms/
 
 ##### Conversione in static website
 
