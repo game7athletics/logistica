@@ -38,7 +38,7 @@ https://getemoji.com/
 - [Issue Templates](https://www.redmine.org/plugins/redmine_issue_templates)
 - [View Customize](https://www.redmine.org/plugins/redmine_view_customize)
 - [Screenshotpaste plugin](https://www.redmine.org/projects/redmine/wiki/PluginScreenshotPaste) - https://github.com/undx/redmine_screenshot_paste
-- [Custom CSS](https://github.com/martin-denizet/redmine_custom_css) leggi il readme e inserisci, per rimuovere descrizioni in pagina prjects/all: div#projects-index div.wiki.description{ display:none; }
+- [Custom CSS](https://github.com/martin-denizet/redmine_custom_css) leggi il readme e inserisci, per rimuovere descrizioni in pagina prjects/all: div#projects-index div.wiki.description{ display:none;}
 - [JStoolbar](https://www.redmine.org/plugins/redmine_jstoolbar_ext_buttons)
 
 - [HowTo configure Redmine for advanced git integration](https://www.redmine.org/projects/redmine/wiki/HowTo_configure_Redmine_for_advanced_git_integration)
