@@ -30,6 +30,8 @@ https://getemoji.com/
 - [Redmine iPhone app](https://www.redmine.org/boards/1/topics/8145)
 - [Redmine API](https://www.redmine.org/projects/redmine/wiki/Rest_api)
 
+- https://redmine.org/projects/redmine/wiki/HowTo_Install_Redmine_on_Heroku
+
 ## Plugins
 
 - [Default queries per project](https://www.redmine.org/plugins/redmine_default_columns)
