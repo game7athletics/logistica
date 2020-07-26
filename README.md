@@ -52,6 +52,15 @@ https://getemoji.com/
 - []()
 - []()
 
+ 
+## Host Redmine
+
+https://www.bing.com/search?q=host+redmine+cheapest&qs=n&form=QBRE&sp=-1&pq=host+redmine+che&sc=0-16&sk=&cvid=2569BE7E01C94E20AA89B2DA59283BAC
+- https://www.hostedredmine.com/
+- https://www.gigapros.com/portal/redmine-hosting/
+
+
+
 ## Redmine su github pages
 
 Sfruttare firebase per il database e provare a fare un porting per github pages
@@ -180,7 +189,7 @@ yag.send(
 
 - https://localwp.com/
   - https://localwp.com/community/t/wp-cli-question/97/9
-  
+
 ##### Integrazione static con Formspree
 
 - https://formspree.io/
