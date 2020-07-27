@@ -191,6 +191,11 @@ yag.send(
 
 - https://localwp.com/
   - https://localwp.com/community/t/wp-cli-question/97/9
+  
+##### Plugins
+
+- https://wordpress.org/plugins/css-js-manager/
+- 
 
 ##### Integrazione static con Formspree
 
