@@ -83,6 +83,11 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - https://alvinalexander.com/blog/post/mysql/show-users-i-ve-created-in-mysql-database/#:~:text=To%20show%2Flist%20the%20users%20in%20a%20MySQL%20database%2C%20first,the%20columns%20from%20the%20mysql.
 - https://www.mysqltutorial.org/mysql-show-databases/
 
+### Backups virtuabox
+
+- https://www.ilsoftware.it/articoli.asp?tag=Creare-e-ripristinare-facilmente-una-copia-di-backup-delle-macchine-virtuali-VirtualBox_8655
+- https://www.maketecheasier.com/import-export-ova-files-in-virtualbox/
+
 ## Scripting utile
 
 - restore/backup redmine: https://www.redmine.org/projects/redmine/wiki/RedmineBackupRestore
