@@ -117,6 +117,7 @@ made4game7.mywire.org
 ## Certificati SSL su virtuabox in locale
 
 - https://docs.bitnami.com/virtual-machine/how-to/generate-install-lets-encrypt-ssl/
+- https://docs.bitnami.com/virtual-machine/apps/redmine/
 
 - https://medium.com/@jeremygale/how-to-set-up-a-free-dynamic-hostname-with-ssl-cert-using-google-domains-58929fdfbb7a
 
