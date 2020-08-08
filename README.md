@@ -87,6 +87,7 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 
 - https://www.ilsoftware.it/articoli.asp?tag=Creare-e-ripristinare-facilmente-una-copia-di-backup-delle-macchine-virtuali-VirtualBox_8655
 - https://www.maketecheasier.com/import-export-ova-files-in-virtualbox/
+- DDNS https://www.dynu.com/en-US/ControlPanel/Login DDNS
 
 ## Scripting utile
 
