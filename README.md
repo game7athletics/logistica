@@ -116,6 +116,7 @@ made4game7.mywire.org
 
 ## Certificati SSL su virtuabox in locale
 
+- https://docs.bitnami.com/virtual-machine/apps/redmine/administration/generate-configure-certificate-letsencrypt/
 - https://docs.bitnami.com/virtual-machine/how-to/generate-install-lets-encrypt-ssl/
 - https://docs.bitnami.com/virtual-machine/apps/redmine/
 
