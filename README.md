@@ -104,7 +104,7 @@ daemon=60
 syslog=yes
 mail=root
 mail-failure=root
-pid=/var/run/ddclient.pid use=web, web=checkip.dynu.com/, web-skip=‘87.2.43.238’
+pid=/var/run/ddclient.pid use=web, web=checkip.dynu.com/, web-skip='IP Address'
 server=api.dynu.com
 protocol=dyndns2
 login=lantoniotrento
