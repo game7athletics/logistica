@@ -111,6 +111,16 @@ login=lantoniotrento
 password=toto121283
 made4game7.mywire.org
 ```
+- https://thornelabs.net/posts/linux-make-ddclient-work-with-multiple-namecheap-domains.html
+- https://www.namecheap.com/support/knowledgebase/article.aspx/583/11/how-do-i-configure-ddclient
+
+## Certificati SSL su virtuabox in locale
+
+- https://docs.bitnami.com/virtual-machine/how-to/generate-install-lets-encrypt-ssl/
+
+- https://medium.com/@jeremygale/how-to-set-up-a-free-dynamic-hostname-with-ssl-cert-using-google-domains-58929fdfbb7a
+
+- https://engineerworkshop.com/blog/connecting-your-raspberry-pi-web-server-to-the-internet/
 
 ## Scripting utile
 
