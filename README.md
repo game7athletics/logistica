@@ -93,6 +93,8 @@ sudo chmod 0664 filename.extension
 sudo chown bitnami:daemon filename.extension
 ```
 
+### Link utili
+
 - https://docs.bitnami.com/general/apps/redmine/#upgrade-redmine-and-all-stack-components-recommended
 - https://docs.bitnami.com/virtual-machine/faq/configuration/configure-static-address/
 - https://docs.bitnami.com/oci/apps/wordpress/administration/increase-upload-limit-php/
@@ -103,6 +105,7 @@ sudo chown bitnami:daemon filename.extension
 - https://www.a2hosting.com/kb/developer-corner/mysql/connect-to-mysql-from-the-command-line
 - https://alvinalexander.com/blog/post/mysql/show-users-i-ve-created-in-mysql-database/#:~:text=To%20show%2Flist%20the%20users%20in%20a%20MySQL%20database%2C%20first,the%20columns%20from%20the%20mysql.
 - https://www.mysqltutorial.org/mysql-show-databases/
+- https://docs.bitnami.com/virtual-machine/faq/configuration/install-webmin/
 
 ### Backups virtuabox
 
