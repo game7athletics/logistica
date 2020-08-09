@@ -75,6 +75,7 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 
 ### Privilegi file
 
+- https://linuxize.com/post/how-to-list-users-in-linux/
 - https://docs.bitnami.com/virtual-machine/how-to/troubleshoot-permission-issues/
 - https://www.pluralsight.com/blog/it-ops/linux-file-permissions
 
@@ -83,9 +84,13 @@ Proprietario/gruppo
 bitnami/daemon
 -rw-rw-r--   --> valore numerico 664
 
-sudo chmod 0664
+## modifica permessi
+sudo chmod -R 0755 directory
 
-chown bitnami:daemon filename.extension
+## Permessi originali
+sudo chmod 0664 filename.extension
+
+sudo chown bitnami:daemon filename.extension
 ```
 
 - https://docs.bitnami.com/general/apps/redmine/#upgrade-redmine-and-all-stack-components-recommended
