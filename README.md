@@ -72,6 +72,22 @@ https://stackoverflow.com/questions/31655085/database-on-a-personal-github-page)
 - [abstracting backend tasks with frontend code](http://nobackend.org/)
 
 ## Bitnami
+
+### Privilegi file
+
+- https://docs.bitnami.com/virtual-machine/how-to/troubleshoot-permission-issues/
+- https://www.pluralsight.com/blog/it-ops/linux-file-permissions
+
+```
+Proprietario/gruppo
+bitnami/daemon
+-rw-rw-r--   --> valore numerico 664
+
+sudo chmod 0664
+
+chown bitnami:daemon filename.extension
+```
+
 - https://docs.bitnami.com/general/apps/redmine/#upgrade-redmine-and-all-stack-components-recommended
 - https://docs.bitnami.com/virtual-machine/faq/configuration/configure-static-address/
 - https://docs.bitnami.com/oci/apps/wordpress/administration/increase-upload-limit-php/
