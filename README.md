@@ -29,6 +29,7 @@ https://getemoji.com/
 - [Installing on Redmine Bitnami stack](https://www.redmineup.com/pages/help/agile/installing-redmine-redmine-agile-plugin-on-bitnami-stack?utm_source=Main&utm_medium=email&utm_campaign=Download_plugin_email&utm_term=download_plugin_email&utm_content=installation_guide)
 - [Redmine iPhone app](https://www.redmine.org/boards/1/topics/8145)
 - [Redmine API](https://www.redmine.org/projects/redmine/wiki/Rest_api)
+- https://www.redminecookbook.com/blog-20-How-to-clear-Redmine-cache-and-sessions
 
 - https://redmine.org/projects/redmine/wiki/HowTo_Install_Redmine_on_Heroku
 
