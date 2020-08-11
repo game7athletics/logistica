@@ -92,6 +92,10 @@ sudo chmod -R 0755 directory
 sudo chmod 0664 filename.extension
 
 sudo chown bitnami:daemon filename.extension
+
+### Riavvio macchina bitnami
+sudo /opt/bitnami/ctlscript.sh restart
+
 ```
 
 ### Link utili
