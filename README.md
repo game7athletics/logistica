@@ -281,7 +281,7 @@ yag.send(
 - https://hostadvice.com/how-to/how-to-convert-a-wordpress-site-to-a-static-html-website/
   - PER ttps://github.com/WP2Static/static-html-output-plugin -- https://github.com/WP2Static/simplerstatic -- https://github.com/WP2Static/wp2static ISSUE: https://github.com/astorm/wp-static-html-output-plugin/issues/2
   
-  - 
+  - https://purifycss.online/
   
 - https://www.quora.com/How-do-you-export-a-WordPress-site-to-a-static-HTML-i-e-how-do-you-remove-all-WordPress-functionality-from-a-WordPress-theme-to-turn-it-into-a-plain-HTML-theme-and-are-there-any-%E2%80%98export-as-HTML%E2%80%99-type-features-available
 
