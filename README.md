@@ -85,6 +85,10 @@ Proprietario/gruppo
 bitnami/daemon
 -rw-rw-r--   --> valore numerico 664
 
+## Capire permessi assegnati
+
+stat nome.file
+
 ## modifica permessi
 sudo chmod -R 0755 directory
 
