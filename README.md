@@ -33,6 +33,11 @@ https://getemoji.com/
 
 - https://redmine.org/projects/redmine/wiki/HowTo_Install_Redmine_on_Heroku
 
+- https://www.freenas.org/
+ - https://www.redmine.org/boards/1/topics/39532
+ - https://forums.freebsd.org/threads/howto-redmine-nginx-passenger-postgresql.41256/
+ - 
+
 ## Plugins
 
 - [Default queries per project](https://www.redmine.org/plugins/redmine_default_columns)
