@@ -8,7 +8,7 @@ https://getemoji.com/
 - [ ] installare il plugin screemshotpaste
 - [ ] [Ordinare in ordine dal più recentemente creato, da vista project generale sottoprogetti store/GdiN/Piano-consegne-settimanale/week-NWEEK](https://www.redmine.org/issues/3722)
 - [X] [Rimuovere logo bitnami in basso](https://docs.bitnami.com/aws/how-to/bitnami-remove-banner/)
-- [ ]
+- [ ] [Creazione sottoprogetti multipli per gestire il piano consegna per tutti gli store in una sola volta](https://www.redmine.org/boards/4/topics/26551)
 - [ ]
 - [ ]
 - [ ]
