@@ -151,6 +151,7 @@ made4game7.mywire.org
 ```
 - https://thornelabs.net/posts/linux-make-ddclient-work-with-multiple-namecheap-domains.html
 - https://www.namecheap.com/support/knowledgebase/article.aspx/583/11/how-do-i-configure-ddclient
+- https://docs.microsoft.com/it-it/mem/configmgr/core/plan-design/hierarchy/ports
 
 ## Certificati SSL su virtuabox in locale
 
